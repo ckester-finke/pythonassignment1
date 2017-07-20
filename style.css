@@ -1,0 +1,187 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#wrapper{
+    width: 970px;
+    height: 1050px;
+}
+
+#maincontent{
+    width: 970px;
+    height: 650px;
+    background: #164e7a;
+}
+
+#header{
+    width: 970px;
+    height: 175px;
+}
+
+#image{
+    width: 707px;
+    height: 175px;
+    display: inline-block;
+}
+
+#search{
+    width: 259px;
+    height: 175px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#textsize{
+    text-align: center;
+}
+
+.yellow{
+    color: yellow;
+}
+#searchbar{
+    background: #2e2f33;
+    height: 42px;
+    padding: 13px;
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+#searchinput{
+    margin-left: 15px;
+    text-align: center;
+    margin-top: 6px;
+    height: 25px;
+    margin-right: 5px;
+}
+#bluebutton{
+    background: #164e7a;
+    color: white;
+    width: 35px;
+    height: 24px;
+    border-radius: 3px;
+}
+
+#navbar{
+    width: 875px;
+    height: 53px;
+    background: #6481f4;
+    margin-left: 64px;
+    border-radius: 10px;
+}
+
+h2{
+    display: inline-block;
+    text-align: center;
+    margin: 21px;
+    margin-top: 10px;
+}
+
+.navs{
+    color: white;
+    text-decoration: none;
+}
+#links{
+    width: 200px;
+    height: 400px;
+    text-align: center;
+    margin-left: 54px;
+    margin-top: 44px;
+    display: inline-block;
+}
+
+#navul{
+    list-style: inside;
+}
+li{
+    margin: 10px;
+}
+.whitelinks{
+    color: white;
+    font-size: larger;
+}
+#zen{
+    width: 635px;
+    height: 400px;
+    display: inline-block;
+    margin-top: 55px;
+    vertical-align: top;
+}
+
+#pythonzen{
+    color: white;
+    text-align-last: center;
+}
+
+.zenyellow{
+    color: yellow;
+    text-align: center;
+    font-size: x-large;
+    margin: 10px;
+}
+
+#thezenofpython{
+    text-align: center;
+    font-size: x-large;
+    color: white;
+}
+#info{
+    width: 970px;
+    height: 300px;
+}
+
+#started{
+    width: 317px;
+    height: 290px;
+    margin-left: 65px;
+    text-align: center;
+    margin-top: 20px;
+    border-top-style: solid;
+    border-top-color: #6481f4;
+    padding-right: 105px;
+    display: inline-block;
+}
+
+.startedlist{
+    color: #6481f4;
+    text-indent: 40px;
+}
+#apps{
+    width: 322px;
+    height: 290px;
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 20px;
+    vertical-align: top;
+    border-top-style: solid;
+    border-color: #6481f4;
+    text-align: center;
+    padding-right: 74px;
+}
+
+#footer{
+    width: 970px;
+    height: 100px;
+    background: linear-gradient(#164e7a,#4e68ce);
+}
+
+#help{
+    width: 970px;
+    height: 30px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+#copyright{
+    width: 970px;
+    height: 20px;
+    font-size: x-small;
+    text-align: center;
+    color: #6481f4;
+}
+
+.helplinks{
+    color: #6481f4;
+    margin-right: 20px;
+}
